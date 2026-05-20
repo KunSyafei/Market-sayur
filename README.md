@@ -1,4 +1,4 @@
-
+<img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/c927cbbe-0eeb-4bb8-8991-3e04f66b4035" />
 🍏 Sistem Manajemen MarketPlace Buah Segar
 📌 Judul & Deskripsi
 Judul Proyek:
@@ -197,25 +197,25 @@ Commit message bermakna & historis Git rapi	✅ (Asalkan commit dibuat deskripti
 Simpan gambar-gambar berikut di folder screenshots/ lalu tautkan di README.
 
 Halaman Login
-![Halaman Login](screenshots/login-page.png)
+<img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/847f44e6-7c91-4281-a0cf-18925858f4e9" />
+
 
 Dashboard Admin (Welcome) dengan form tambah & tabel
-![Dashboard Admin](screenshots/admin-dashboard.png)
+<img width="530" height="613" alt="image" src="https://github.com/user-attachments/assets/f669829b-f72f-454b-baeb-eec451ed5970" />
+
 
 Marketplace User (Homepage)
-![Marketplace User](screenshots/user-marketplace.png)
+<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/afcf2e67-f197-4986-bbbc-fdfb2fc088f0" />
+
 
 Form Update dengan data pre-filled
-![Form Update](screenshots/update-form.png)
+<img width="250" height="325" alt="image" src="https://github.com/user-attachments/assets/4eb3ac2f-6693-44f3-a259-0ec3e898b60f" />
 
 Konfirmasi Hapus
-![Konfirmasi Hapus](screenshots/delete-confirm.png)
+<img width="569" height="579" alt="image" src="https://github.com/user-attachments/assets/1cf590cc-7957-4391-bcfa-d9babc3cae56" />
 
-Tampilan Responsif di HP
-![Mobile View](screenshots/mobile-responsive.png)
 
-👨‍💻 Kontributor & Lisensi
-Pengembang: [Nama Anda]
+
 
 Kelas / Mata Pelajaran: Pemrograman Web
 
